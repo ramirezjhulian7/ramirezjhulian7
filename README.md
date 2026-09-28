@@ -7,7 +7,7 @@ Today I define the reference architecture for SmartFarm at Asimetrix. Before tha
 ### Building in the open
 
 - **[Q11 Freedom](https://github.com/ramirezjhulian7/motorola-q11-freedom)**: a local web panel that gives Motorola Q11 mesh owners their routers back after the Minim cloud shut down. No account, no app, no flashing. [Live demo](https://ramirezjhulian7.github.io/motorola-q11-freedom/).
-- **[Interactive resume](https://github.com/ramirezjhulian7/HV)**: bilingual ES/EN, with a vector PDF export instead of a screenshot. [jhulian-resume.web.app](https://jhulian-resume.web.app).
+- **[Interactive resume](https://jhulian-resume.web.app)**: bilingual ES/EN, with a vector PDF export instead of a screenshot.
 
 ### What I care about
 
