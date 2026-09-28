@@ -19,4 +19,4 @@ C# and .NET · TypeScript, NestJS, Angular and React · Python · SQL Server, Co
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/jhulianramirez), where I write in Spanish about architecture and AI in the development cycle.
+[LinkedIn](https://www.linkedin.com/in/jhulianramirez), where I write in Spanish/English about architecture and AI in the development cycle.
